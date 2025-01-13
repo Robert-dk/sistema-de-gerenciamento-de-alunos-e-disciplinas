@@ -1,7 +1,5 @@
 # Sistema de Gerenciamento de Alunos e Disciplinas em C
 
-[![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 Este projeto implementa um sistema de gerenciamento de alunos e disciplinas em C, utilizando alocação dinâmica de memória e listas encadeadas.
 
 ## Descrição
