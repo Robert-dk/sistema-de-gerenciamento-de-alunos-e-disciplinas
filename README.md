@@ -24,34 +24,6 @@ O projeto foi desenvolvido com foco em boas práticas de programação em C, inc
 *   **Ordenação por RGM:** A função `bubblesort` implementa o algoritmo de ordenação Bubble Sort para organizar os alunos em ordem alfabética de RGM.
 * **Limpeza de Buffer:** O sistema usa uma função `limparBuffer` para garantir que entradas inválidas não causem comportamento inesperado.
 
-## Como Compilar e Executar
-
-Para compilar e executar o programa, você precisará de um compilador C (como o GCC).
-
-1.  Clone o repositório:
-
-    ```bash
-    git clone [URL inválido removido]
-    ```
-
-2.  Navegue até o diretório do projeto:
-
-    ```bash
-    cd NOME_DO_REPOSITORIO
-    ```
-
-3.  Compile o código:
-
-    ```bash
-    gcc main.c -o gerenciamento_alunos
-    ```
-
-4.  Execute o programa:
-
-    ```bash
-    ./gerenciamento_alunos
-    ```
-
 ## Estrutura do Código
 
 *   `main.c`: Contém a função `main` (principal) e a lógica do menu.
